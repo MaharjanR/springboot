@@ -1,0 +1,8 @@
+debug: false
+server:
+  port : 8081
+#spring:
+#  profiles:
+#    active: dev
+page:
+  mood: 40
